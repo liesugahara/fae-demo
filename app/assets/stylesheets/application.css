@@ -13,3 +13,9 @@
  *= require_tree .
  *= require_self
  */
+
+ #article_div{
+     width: 5%;
+     border-style: dotted none none;
+     border-width: 4px;
+ }
